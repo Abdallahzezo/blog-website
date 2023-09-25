@@ -1,5 +1,7 @@
 Blog Website Documentation
+
 Introduction
+
 This documentation provides an overview of a blog website created by Abdallah Elsayed Ramadan. The website is designed using pure HTML, CSS, and JavaScript to demonstrate a commitment to crafting a responsive and search engine optimized (SEO) website without relying on external CSS libraries like Bootstrap or Tailwind. This project showcases the developer's skills in addressing the challenges of responsive design and SEO optimization.
 
 Website Features
